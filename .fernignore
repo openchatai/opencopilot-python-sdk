@@ -1,2 +1,5 @@
 # Specify files that shouldn't be modified by Fern
 README.md
+poetry.lock
+requirements.txt
+setup.py
