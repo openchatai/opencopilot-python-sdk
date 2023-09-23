@@ -24,6 +24,20 @@ pip3 --version
 pip3 install git+https://github.com/openchatai/opencopilot-python-sdk.git
 ```
 
+## Usage
+
+Here's a simple example of how to use the SDK to interact with OpenCopilot:
+
+``` python
+from client import OpenCopilotApi
+
+open_copilot_client = OpenCopilotApi(
+    base_url='http://localhost:xxx',
+)
+
+my_copilots = open_copilot_client.copilot.get_all()
+```
+
 
 
 ## Documentation
