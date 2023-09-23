@@ -2,25 +2,6 @@
 
 Welcome to the open-source Python SDK for [Your Project Name]! This SDK is designed to simplify the integration of [Your Project Name] into Python applications, making it easier for developers to interact with [Your Project Name] services and features.
 
-## Table of Contents
-
-[//]: # (- [Installation]&#40;#installation&#41;)
-- [Usage](#usage)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-
-[//]: # (## Installation)
-
-[//]: # ()
-[//]: # (You can install the OpenCopilot Python SDK using pip:)
-
-[//]: # ()
-[//]: # (```bash)
-
-[//]: # (pip install yourproject-sdk)
-
-[//]: # (```)
-
 ## Usage
 
 Here's a simple example of how to use the SDK to interact with OpenCopilot:
