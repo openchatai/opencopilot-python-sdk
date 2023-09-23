@@ -2,19 +2,29 @@
 
 Welcome to the open-source Python SDK for OpenCopilot! This SDK is designed to simplify the integration of OpenCopilot into Python applications, making it easier for developers to interact with OpenCopilot services and features.
 
-## Usage
 
-Here's a simple example of how to use the SDK to interact with OpenCopilot:
 
-``` python
-from client import OpenCopilotApi
 
-open_copilot_client = OpenCopilotApi(
-    base_url='http://localhost:xxx',
-)
+## Installation
 
-my_copilots = open_copilot_client.copilot.get_all()
+To install the `openchatai/opencopilot-python-sdk` package from its GitHub repository, you can use the `pip3` command. Please follow these steps:
+
+- Make sure you have Python 3 and `pip3` installed on your system. You can check this by running the following commands:
+
+```bash
+python3 --version
+pip3 --version
 ```
+
+- If these commands show version information, you have Python 3 and pip3 installed. If not, you can download and install Python 3 from Python's official website.
+
+- Run the following pip3 command to install the package from the GitHub repository:
+
+```bash
+pip3 install git+https://github.com/openchatai/opencopilot-python-sdk.git
+```
+
+
 
 ## Documentation
 
