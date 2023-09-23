@@ -1,6 +1,6 @@
 # OpenSource Python SDK for OpenCopilot
 
-Welcome to the open-source Python SDK for [Your Project Name]! This SDK is designed to simplify the integration of [Your Project Name] into Python applications, making it easier for developers to interact with [Your Project Name] services and features.
+Welcome to the open-source Python SDK for OpenCopilot! This SDK is designed to simplify the integration of OpenCopilot into Python applications, making it easier for developers to interact with OpenCopilot services and features.
 
 ## Usage
 
